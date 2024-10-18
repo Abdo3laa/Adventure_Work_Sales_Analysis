@@ -35,7 +35,7 @@ This project provided key insights into the sales performance of **Adventure Wor
 [Include a link to screenshots or GIFs showing key parts of the dashboard]
 
 ## How to Run
-1. **Data Extraction**: Load the Excel file containing the Adventure Works dataset (`AdventureWorks_Data.xlsx`).
+1. **Data Extraction**: Load the Excel file containing the Adventure Works dataset (`Final.xlsx`).
 2. **Power Query**: Use the embedded Power Query editor within Excel to refresh or modify the data cleaning process.
 3. **Excel Dashboard**: Explore the final interactive dashboard using pivot tables, charts, and slicers in the provided Excel file (`AdventureWorks_Dashboard.xlsx`).
 
