@@ -9,7 +9,6 @@ This project was completed as part of my internship at the **National Telecommun
 - **Data Modeling**: Built a star schema in Excel with relationships between the following tables:
   - **Sales (FactOrders)**
   - **DimProducts**
-  - **DimCustomers**
   - **DimSalesPerson**
   - **DimRegion**
 - **Interactive Dashboard**: Developed a 4-page **Excel Dashboard** with the following components:
